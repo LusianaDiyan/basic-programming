@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\p2\p2\main.cpp(42): warning C4018: '>': signed/unsigned mismatch
+d:\p2\p2\main.cpp(192): warning C4018: '>': signed/unsigned mismatch
+  P2.vcxproj -> D:\P2\Debug\P2.exe

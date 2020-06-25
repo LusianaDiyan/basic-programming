@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\pemrograman dasar\projectuas_kalender\projectuas_kalender\source.cpp(111): warning C4101: 'awal_tanggal': unreferenced local variable
+d:\pemrograman dasar\projectuas_kalender\projectuas_kalender\source.cpp(113): warning C4101: 'jumlah_hari': unreferenced local variable
+d:\pemrograman dasar\projectuas_kalender\projectuas_kalender\source.cpp(113): warning C4101: 'day': unreferenced local variable
+d:\pemrograman dasar\projectuas_kalender\projectuas_kalender\source.cpp(113): warning C4101: 'jmlHari': unreferenced local variable
+  ProjectUAS_Kalender.vcxproj -> D:\Pemrograman Dasar\ProjectUAS_Kalender\Debug\ProjectUAS_Kalender.exe

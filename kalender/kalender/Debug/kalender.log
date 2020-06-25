@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\pemrograman dasar\kalender\kalender\source.cpp(69): warning C4101: 'thn': unreferenced local variable
+d:\pemrograman dasar\kalender\kalender\source.cpp(69): warning C4101: 'bln': unreferenced local variable
+  kalender.vcxproj -> D:\Pemrograman Dasar\kalender\Debug\kalender.exe

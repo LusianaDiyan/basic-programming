@@ -1,0 +1,3 @@
+﻿  Source2.cpp
+d:\pemrograman dasar\teoripointer\pdf7\source2.cpp(64): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  pdf7.vcxproj -> D:\Pemrograman Dasar\teoriPointer\Debug\pdf7.exe

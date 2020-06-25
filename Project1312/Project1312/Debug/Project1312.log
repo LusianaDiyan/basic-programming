@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\pemrograman dasar\project1312\project1312\source.cpp(49): warning C4101: 'nrp2': unreferenced local variable
+d:\pemrograman dasar\project1312\project1312\source.cpp(49): warning C4101: 'nrp1': unreferenced local variable
+d:\pemrograman dasar\project1312\project1312\source.cpp(48): warning C4101: 'nama2': unreferenced local variable
+d:\pemrograman dasar\project1312\project1312\source.cpp(50): warning C4101: 'copy': unreferenced local variable
+  Project1312.vcxproj -> D:\Pemrograman Dasar\Project1312\Debug\Project1312.exe

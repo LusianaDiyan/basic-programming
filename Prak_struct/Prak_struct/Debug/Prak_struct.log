@@ -1,0 +1,12 @@
+﻿  Source.cpp
+d:\pemrograman dasar\prak_struct\prak_struct\source.cpp(502): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  d:\pemrograman dasar\prak_struct\prak_struct\source.cpp(502): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\pemrograman dasar\prak_struct\prak_struct\source.cpp(502): note: the missing variadic argument 2 is required by format string '%c'
+  d:\pemrograman dasar\prak_struct\prak_struct\source.cpp(502): note: this argument is used as a buffer size
+d:\pemrograman dasar\prak_struct\prak_struct\source.cpp(534): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\pemrograman dasar\prak_struct\prak_struct\source.cpp(539): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\pemrograman dasar\prak_struct\prak_struct\source.cpp(544): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\pemrograman dasar\prak_struct\prak_struct\source.cpp(550): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\pemrograman dasar\prak_struct\prak_struct\source.cpp(556): warning C4474: 'printf' : too many arguments passed for format string
+  d:\pemrograman dasar\prak_struct\prak_struct\source.cpp(556): note: placeholders and their parameters expect 4 variadic arguments, but 6 were provided
+  Prak_struct.vcxproj -> D:\Pemrograman Dasar\Prak_struct\Debug\Prak_struct.exe

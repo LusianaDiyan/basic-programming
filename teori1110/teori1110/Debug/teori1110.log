@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\pemrograman dasar\teori1110\teori1110\source.cpp(119): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  d:\pemrograman dasar\teori1110\teori1110\source.cpp(119): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  d:\pemrograman dasar\teori1110\teori1110\source.cpp(119): note: the missing variadic argument 2 is required by format string '%c'
+  d:\pemrograman dasar\teori1110\teori1110\source.cpp(119): note: this argument is used as a buffer size
+d:\pemrograman dasar\teori1110\teori1110\source.cpp(121): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'float *'
+d:\pemrograman dasar\teori1110\teori1110\source.cpp(110): warning C4101: 'totnil': unreferenced local variable
+  teori1110.vcxproj -> D:\Pemrograman Dasar\teori1110\Debug\teori1110.exe

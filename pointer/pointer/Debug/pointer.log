@@ -1,0 +1,8 @@
+﻿  Source.cpp
+d:\pemrograman dasar\pointer\pointer\source.cpp(458): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+d:\pemrograman dasar\pointer\pointer\source.cpp(461): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+d:\pemrograman dasar\pointer\pointer\source.cpp(462): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int **'
+d:\pemrograman dasar\pointer\pointer\source.cpp(471): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+d:\pemrograman dasar\pointer\pointer\source.cpp(474): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+d:\pemrograman dasar\pointer\pointer\source.cpp(475): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int **'
+  pointer.vcxproj -> D:\Pemrograman Dasar\pointer\Debug\pointer.exe

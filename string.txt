@@ -1,0 +1,153 @@
+//1 hitung panjang string
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+int pjgstr(int);
+char str[256];
+int jum_char = 0;
+
+int main() {
+    scanf("%s", &str);
+    
+    int hasil = pjgstr(jum_char);
+    printf("%d", hasil);
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    return 0;
+}
+
+int pjgstr(int jum_char){  
+    for(int i = 0; str[i] != '\0'; i++){
+        jum_char++;
+    }
+    return jum_char;
+}
+
+//2 balik string
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+int pjgstr(int);
+void balikstr(int);
+char str[256];
+char str_balik[256];
+int jum_char = 0;
+
+int main() {
+    scanf("%s", &str);
+    int hasil = pjgstr(jum_char);
+    printf("panjang_string = %d ", pjgstr(jum_char)/2);
+    balikstr(hasil);
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    return 0;
+}
+
+int pjgstr(int){
+    for(int i = 0; str[i] != '\0'; i++){
+        jum_char++;
+    }
+    
+    return jum_char;
+}
+
+void balikstr(int x){
+    int y =0;
+    for(int i = x; i>0; i--){
+        str_balik[y] = str[i-1];
+        y++;
+    }
+    
+    for(int j=0; j<x; j++){
+        printf("%c", str_balik[j]);
+    }
+}
+
+//gabungan string
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+void gabungstring(char input1[],char input2[]){
+    for(int i=0;;i++){
+        printf("%c",input1[i]);
+        if(input1[i]=='\0') break;
+    }
+    for(int i=0;;i++){
+        printf("%c",input2[i]);
+        if(input2[i]=='\0') break;
+    }
+}
+
+int main() {
+    char A[256],B[256];
+    char c='1';
+    scanf("%s",&A);
+    scanf("%s",&B);
+    gabungstring(A,B);
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    return 0;
+}
+
+//4 cari string
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+void cari(char str[50], char x){
+    int i = 0;
+    while(str[i]!=x){
+        i++;
+    }
+    printf("%d",i-2);
+}
+
+int main() {
+    char str[50],c;
+    scanf("%c",&c);
+    scanf("%50c",&str);
+    cari(str,c);
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    return 0;
+}
+
+//5. copy string
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+char a[50], b[50];
+void copystr(char A[50], char B[50]){
+    B=A;
+    printf("A = %s B = %s",a,B);
+}
+
+int main() {
+    int i=0;
+   printf("sebelum_copy : A = ");
+    while((a[i]=getchar())!='\n'){
+        i++;
+    }
+    a[i]=00;
+  printf("B = ");
+
+scanf("%50c",&b);
+    copystr(a,b);
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    return 0;
+}
+

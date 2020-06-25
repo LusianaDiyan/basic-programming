@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\pemrograman dasar\2410teori\2410teori\source.cpp(5): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  2410teori.vcxproj -> D:\Pemrograman Dasar\2410teori\Debug\2410teori.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\pemrograman dasar\inisiasi\inisiasi\source.cpp(13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Inisiasi.vcxproj -> D:\Pemrograman Dasar\Inisiasi\Debug\Inisiasi.exe
